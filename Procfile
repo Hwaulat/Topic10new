@@ -1,0 +1,1 @@
+web: gunicorn floweriris:app --log-file -
